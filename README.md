@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 I am a third-year computer science and engineering undergraduate from the University of Moratuwa. 
 
 
-)  
-
